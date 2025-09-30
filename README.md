@@ -1,5 +1,5 @@
 <h1 align="center">
-EduSync
+CampusHUB
 </h1>
 
 <h3 align="center">
@@ -22,7 +22,7 @@ Access records, view marks, and communicate effortlessly.
 👉 Connect with the author on LinkedIn
 
 📖 About
-EduSync is a comprehensive, web-based management system built on the MERN (MongoDB, Express.js, React.js, Node.js) stack. It is designed to streamline academic operations, enhance communication, and provide a centralized platform for administrators, teachers, and students.
+CampusHUB is a comprehensive, web-based management system built on the MERN (MongoDB, Express.js, React.js, Node.js) stack. It is designed to streamline academic operations, enhance communication, and provide a centralized platform for administrators, teachers, and students.
 
 ✨ Features
 User Roles: The system supports three distinct user roles: Admin, Teacher, and Student, each with tailored dashboards and permissions.
@@ -59,3 +59,4 @@ REACT_APP_BASE_URL=http://localhost:8081
 2. Backend (.env file in the backend folder):
 PORT=8081
 MONGO_URL=your_mongodb_connection_string
+
